@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy MARTIN MAXIMILIANOM PEREZ 👋
 
-<!--
-**CANIBAL32/CANIBAL32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Frontend enfocado en la eficiencia y la creación de soluciones con Inteligencia Artificial. Me especializo en convertir ideas en código funcional de forma rápida y moderna.
 
-Here are some ideas to get you started:
+## 🚀 Mis Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 [Generador de Ideas IA](LINK_DE_TU_PAGINA_3)
+*Una herramienta que simula inteligencia artificial para emprendedores.*
+
+### 🏢 [Nova Digital Landing](LINK_DE_TU_PAGINA_2)
+*Web corporativa profesional con diseño responsivo y moderno.*
+
+### 📝 [Task Master App](LINK_DE_TU_PAGINA_1)
+*Aplicación de productividad con gestión de datos local.*
+
+## 🛠️ Tecnologías
+- HTML5 | CSS3 | JavaScript (ES6+)
+- Optimización de flujo de trabajo con IA (Gemini/ChatGPT)
+- Git & GitHub
